@@ -1,1 +1,2 @@
 Text přidaný do testovacího souboru
+Místní testovací soubor a testovací soubor z Github nejsou stejné
