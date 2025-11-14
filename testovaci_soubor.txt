@@ -1,1 +1,2 @@
 Text přidaný do testovacího souboru
+text napsaný jen v tomto vzdáleném rpozitáři
