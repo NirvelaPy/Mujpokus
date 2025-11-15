@@ -1,2 +1,6 @@
 Text přidaný do testovacího souboru
+<<<<<<< HEAD
 Místní testovací soubor a testovací soubor z Github nejsou stejné
+=======
+text napsaný jen v tomto vzdáleném rpozitáři
+>>>>>>> c5e09d57722682b5edee91589adc92be12fe63d8
